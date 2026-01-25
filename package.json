@@ -1,0 +1,16 @@
+{
+    "name": "kamen-most-stone-bridge",
+    "version": "1.0.0",
+    "description": "Kamen Most Stone Bridge - Computer Graphics Project",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "three": "^0.160.0"
+    },
+    "devDependencies": {
+      "vite": "^5.0.0"
+    }
+  }
